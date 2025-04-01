@@ -19,8 +19,8 @@ Any use in production is at your own risk.
 
 ## Features
 
-✅ Resize images to specified dimensions.  
-✅ Cache resized images in Redis for faster subsequent requests. Also add header for browser to cache responses.
+✅ Resize images to specified dimensions.\
+✅ Cache resized images in Redis for faster subsequent requests. Also add header for browser to cache responses.\
 ✅ Dockerized for easy deployment.
 
 ---
