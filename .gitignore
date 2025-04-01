@@ -80,3 +80,6 @@ built
 
 #DynamoDB Local files 
 .dynamodb/
+
+# Redis generated files
+/data/
